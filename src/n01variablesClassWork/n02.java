@@ -7,5 +7,9 @@ public class n02 {
             isminiz : Mehmet
             soyisminiz : Bulutluoz
             seklinde yazdirin*/
+
+        String isim = "Mehmet Nail",soyAd = "Kocagöz";
+        System.out.println("isminiz : "+ isim);
+        System.out.print("Soyadniz : "+ soyAd);
     }
 }
