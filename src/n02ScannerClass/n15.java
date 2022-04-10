@@ -1,5 +1,7 @@
 package n02ScannerClass;
 
+import java.util.Scanner;
+
 public class n15 {
     public static void main(String[] args) {
         /*
@@ -11,7 +13,9 @@ public class n15 {
 		 INPUT      : Kilo: 71
 		                   Boy: 1,72
 		 OUTPUT  : Vucut Kitle Indeksiniz : 23
+
 		 	 */
+        Scanner scan = new Scanner(System.in);
 
     }
 }
